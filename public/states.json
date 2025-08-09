@@ -1,0 +1,5 @@
+[
+  { "name": "Alabama", "fraudCount": 5 },
+  { "name": "Alaska", "fraudCount": 0 },
+  { "name": "Arizona", "fraudCount": 12 }
+]
